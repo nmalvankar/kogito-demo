@@ -41,3 +41,8 @@ test.properties
 *.tlog
 
 workspace
+
+.classpath
+.factorypath
+.project
+/.settings/*
